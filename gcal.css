@@ -1,0 +1,21 @@
+#insertCalendar {
+  font-family:arial;
+  font-size:12px;
+  width:500px;
+  border:5px solid #ddd;
+  padding:2px;
+  text-align:left;
+}
+
+#calendar {
+  padding:5px;
+}
+
+.subhead {
+  font-weight:bold;
+  color:#555;
+}
+
+.bodycopy {
+}
+
